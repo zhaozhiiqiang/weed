@@ -1,0 +1,13 @@
+
+#path: ../data/Test/Individual_Weed  # dataset root dir
+train: ../data/Test/Individual_Weed/train/images
+val: ../data/Test/Individual_Weed/val/images
+
+
+
+names:
+  0: ko-chia
+  1: horse weed
+  2: rag
+  3: redrootpigweed
+
